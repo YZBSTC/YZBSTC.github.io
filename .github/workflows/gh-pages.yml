@@ -1,9 +1,7 @@
 name: deploy to pages
-
 on:
   push:
     branches:
-      - master
       - main
 
 jobs:
@@ -28,5 +26,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          deploy_key: ${{ secrets.PRIVATE_KEY }}
+          external_repository: <username/username.github.io>
           publish_dir: ./public
