@@ -77,7 +77,7 @@ params:
 
     comments:
         enabled: true
-        provider: disqus
+        provider: giscus
 
         disqusjs:
             shortname:
@@ -127,10 +127,10 @@ params:
             lang:
 
         # See https://cactus.chat/docs/reference/web-client/#configuration for description of the various options
-        #cactus:
-        #    defaultHomeserverUrl: "https://matrix.cactus.chat:8448"
-        #    serverName: "cactus.chat"
-        #    siteName: "yzbst.city" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
+        cactus:
+            defaultHomeserverUrl: "https://matrix.cactus.chat:8448"
+            serverName: "cactus.chat"
+            siteName: "yzbst.city" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
 
         giscus:
             repo: YZBSTC/YZBSTC.github.io
@@ -143,16 +143,16 @@ params:
             reactionsEnabled: 1
             emitMetadata: 0
 
-        gitalk:
-            owner:
-            admin:
-            repo:
-            clientID:
-            clientSecret:
+        #gitalk:
+        #    owner:
+        #    admin:
+        #    repo:
+        #    clientID:
+        #    clientSecret:
 
-        cusdis:
-            host:
-            id:
+        #cusdis:
+        #    host:
+        #    id:
     widgets:
         homepage:
             - type: search
