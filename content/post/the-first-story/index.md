@@ -1,7 +1,7 @@
 ---
 title: The first story
 description: Where the story of "YZBSTC stories" begins
-date: 2020-09-09
+date: 2022-05-01
 slug: the-first-story
 image: cover.jpeg
 categories:
