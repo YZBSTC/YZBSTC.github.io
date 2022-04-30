@@ -7,8 +7,9 @@ Yazhou bay science and technology city - open source stories platform
 The platform currently has the following features
 
 - Hugo based, real time updates on approved github pull requests.
-- Cactus comments system with end2end encryption.
+- giscus comments that post diectly to the discussion forum.
 - Articles categories.
+- Clean design with SEO optimization
 
 ## Categories
 
