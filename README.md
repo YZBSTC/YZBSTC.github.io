@@ -25,4 +25,4 @@ Articles can be composed based on categories, the current available categories a
 ## Copyright
 
 Licensed under the GNU General Public License v3.0 due to [Jimmy's hugo-stack-theme](https://github.com/CaiJimmy/hugo-theme-stack)
-All the articles published under this platform, either by pull requests or other methods are licensed under [CC BY-NC-SA 4.0]("ARTICLES_LICENSE")
+All the articles published under this platform, either by pull requests or other methods are licensed under [CC BY-NC-SA 4.0](ARTICLES_LICENSE)
