@@ -1,4 +1,4 @@
-# YZBSTC
+# YZBSTC stories
 
 Yazhou bay science and technology city - open source stories platform
 
