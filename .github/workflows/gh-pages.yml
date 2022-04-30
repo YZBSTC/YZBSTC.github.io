@@ -1,4 +1,4 @@
-name: deploy to  github pages
+name: deploy to pages
 
 on:
   push:
@@ -29,4 +29,4 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
+          publish_dir: ./public
