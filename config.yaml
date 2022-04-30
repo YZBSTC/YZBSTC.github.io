@@ -244,6 +244,6 @@ markup:
         tabWidth: 4
 
 sitemap:
-  changefreq: monthly
+  changefreq: always
   filename: sitemap.xml
   priority: 0.5
