@@ -27,5 +27,5 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           deploy_key: ${{ secrets.PRIVATE_KEY }}
-          external_repository: <username/username.github.io>
+          external_repository:  YZBSTC.github.io
           publish_dir: ./public
