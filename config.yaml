@@ -211,7 +211,7 @@ menu:
 
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://twitter.com/YZBSTC
           params:
               icon: brand-twitter
 
