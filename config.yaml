@@ -2,8 +2,8 @@ baseurl: https://yzbst.city
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Yazhou bay stories
-description: YZBSTC - Hainan Yazhou bay science and technology city stories, what's happening in yazhou bay, news, whistleblowing, true and real stories telling.
+title: YZBSTC.city - Hainan Sanya Yazhou bay Sci-tech city stories
+description: YZBSTC - Hainan Yazhou bay science and technology city (Sci-tech) stories, what's happening in yazhou bay, news, whistleblowing, true and real stories told.
 
 languages:
     en:
