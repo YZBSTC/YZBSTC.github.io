@@ -1,15 +1,23 @@
+![go down to the rabbit hole](/static/rabbit_hole.jpeg)
+
 # YZBSTC stories
 
 Yazhou bay science and technology city - open source stories platform
+
+the platform official domain is [https://yzbst.city/](https://yzbst.city/) although the website (blog) might not seen as active, everything has a time. 
+The rabbit clock is still ticking, and when time comes, we will head over to the rabbit hole.
 
 ## Features
 
 The platform currently has the following features
 
 - Hugo based, real time updates on approved github pull requests.
-- giscus comments that post diectly to the discussion forum.
 - Articles categories.
-- Clean design with SEO optimization
+- Clean design with SEO optimization.
+- Google analytics integration.
+- Support for Mandarin and English.
+
+Comments for now are disabled, too slow in China mainland.
 
 ## Categories
 
