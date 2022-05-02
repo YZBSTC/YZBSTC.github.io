@@ -8,7 +8,7 @@ description: YZBSTC - Hainan Yazhou bay science and technology city (Sci-tech) s
 languages:
     en:
         languageName: English
-        title: Yazhou bay stories
+        title: Hainan Sanya Yazhou bay Sci-tech city stories
         sidebar:
           emoji: 🌊
           subtitle: Stories from Hainan's Yazhou bay science and technology city.
@@ -22,7 +22,7 @@ languages:
         weight: 1
     zh-cn:
         languageName: 中文
-        title: 崖州湾故事
+        title: 海南三亚崖州湾科技城故事
         sidebar:
           emoji: 🌊
           subtitle: 来自海南崖州湾科技城的故事。
@@ -172,7 +172,7 @@ params:
     opengraph:
         twitter:
             # Your Twitter username
-            site:
+            site: https://twitter.com/YZBSTC
 
             # Available values: summary, summary_large_image
             card: summary_large_image
