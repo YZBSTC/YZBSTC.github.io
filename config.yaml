@@ -215,6 +215,13 @@ menu:
           params:
               icon: brand-twitter
 
+        - identifier: instagram
+          name: Instagram
+          url:  https://www.instagram.com/yzbstc/
+          params:
+              icon: brand-instagram
+
+
 related:
     includeNewer: true
     threshold: 60
