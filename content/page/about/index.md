@@ -1,6 +1,6 @@
 ---
 title: About
-description:
+description: Yazhou Bay science and technology (Sci-tech) city news and latest updates in Hainan FTP and YZBSTC.
 date: '2022-05-1'
 aliases:
   - about-us
@@ -18,6 +18,8 @@ menu:
         params:
             icon: user
 ---
+
+![The view of Hainan free trade port, yazhou bay science and technoly city development is a key element in Hainan's development](hainan-yazhou-bay-science-and-technology-city-free-trade-port.jpeg)
 
 Yazhou bay science and technology city (YZBSTC) is a key advanced technology park located on Hainan Island, China. The park contains incubators, accelerators, and enterprises working towards developing cutting-edge solutions in marine studies, deep-sea studies, agriculture, and biotechnology. Yazhou bay's main focus is on seed breeding development and research in order to ensure a stable food supply in the future.
 
