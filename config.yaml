@@ -2,37 +2,37 @@ baseurl: https://yzbst.city
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: YZBSTC.city - Hainan Sanya Yazhou bay Sci-tech city stories
-description: YZBSTC - Hainan Yazhou bay science and technology city (Sci-tech) stories, what's happening in yazhou bay, news, whistleblowing, true and real stories told.
+title: YZBSTC.city - Hainan Sanya Yazhou bay Sci-tech city news
+description: YZBSTC - Hainan Yazhou bay science and technology city (Sci-tech) news, what's happening in yazhou bay, news, true stories from Hainan FTP.
 
 languages:
     en:
         languageName: English
-        title: Hainan Sanya Yazhou bay Sci-tech city stories
+        title: Hainan Sanya Yazhou bay Sci-tech city news
         sidebar:
           emoji: 🌊
-          subtitle: Stories from Hainan's Yazhou bay science and technology city.
+          subtitle: News from Hainan's Yazhou bay science and technology city.
           avatar:
               enabled: true
               local: true
               src: img/yazhou-150x150.jpeg
         footer:
             since: 2022
-            customText: "This website is not assosiated, affiliated or controlled in any way by any government or private organization including but not limited to Yazhou Bay science and technology city Government, Sanya government, and Hainan provincial government. All the content on this website is user-generated content and the complete open-source can be found on the project's Github page. This website and all the content on it belong to the public and do not belong to any private enterprise.<br/>"
+            customText: "This website is not associated, affiliated, or controlled in any way by any government or private organization including but not limited to Yazhou Bay science and technology city Government, Sanya government, and Hainan provincial government.<br/>"
         weight: 1
     zh-cn:
         languageName: 中文
-        title: 海南三亚崖州湾科技城故事
+        title: 海南三亚崖州湾科技城新闻
         sidebar:
           emoji: 🌊
-          subtitle: 来自海南崖州湾科技城的故事。
+          subtitle: 来自海南崖州湾科技城的消息。
           avatar:
               enabled: true
               local: true
               src: img/yazhou-150x150.jpeg
         footer:
             since: 2022
-            customText: "本网站不受包括但不限于崖州湾科技城政府、三亚市政府、海南省政府在内的任何政府或私人组织以任何方式附属或控制。 本网站上的所有内容都是用户生成的内容，完全开源可以在项目的 Github 页面上找到。 本网站及其所有内容属于公众所有，不属于任何私营企业.<br/>"
+            customText: "本网站不受包括但不限于崖州湾科技城政府、三亚市政府、海南省政府在内的任何政府或私人组织以任何方式关联、附属或控制。<br/>"
         weight: 2
 
 # Change it to your Disqus shortname before using
