@@ -1,4 +1,4 @@
-![YZBSTC news](/themes/assets/img/yzbstc-news-logo.png)
+![YZBSTC news](/themes/hugo-theme-stack/assets/img/yzbstc-news-logo.png)
 
 # YZBSTC stories
 
