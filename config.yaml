@@ -15,7 +15,7 @@ languages:
           avatar:
               enabled: true
               local: true
-              src: img/yzbstc-news-logo.png
+              src: /img/yzbstc-news-logo.png
         footer:
             since: 2022
             customText: "This website is not associated, affiliated, or controlled in any way by any government or private organization including but not limited to Yazhou Bay science and technology city Government, Sanya government, and Hainan provincial government.<br/>"
@@ -29,7 +29,7 @@ languages:
           avatar:
               enabled: true
               local: true
-              src: img/yzbstc-news-logo.png
+              src: /img/yzbstc-news-logo.png
         footer:
             since: 2022
             customText: "本网站不受包括但不限于崖州湾科技城政府、三亚市政府、海南省政府在内的任何政府或私人组织以任何方式关联、附属或控制。<br/>"
@@ -58,7 +58,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: img/favicon/favicon.ico
+    favicon: /img/favicon/favicon.ico
 
     footer:
         since: 2022
