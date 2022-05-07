@@ -1,11 +1,10 @@
-![go down to the rabbit hole](/static/rabbit_hole.jpeg)
+![YZBSTC news](/themes/assets/img/yzbstc-news-logo.png)
 
 # YZBSTC stories
 
-Yazhou bay science and technology city - open source stories platform
+Yazhou bay science and technology city - open source news platform based on HUGO ad Jimmy's hugo-stack-theme.
 
-the platform official domain is [https://yzbst.city/](https://yzbst.city/) although the website (blog) might not seen as active, everything has a time. 
-The rabbit clock is still ticking, and when time comes, we will head over to the rabbit hole.
+the platform official domain is [https://yzbst.city/](https://yzbst.city/), Twitter account is [@YZBSTC](https://twitter.com/YZBSTC) and Instagram account [@YZBSTC](https://www.instagram.com/YZBSTC/).
 
 ## Features
 
